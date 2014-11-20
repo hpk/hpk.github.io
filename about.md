@@ -1,19 +1,11 @@
 ---
 layout: page
-title: About Pixyll
+title: About Hans Kuder
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Founder of [Retention Hero](http://www.retentionhero.com). Engineer at [Suitable Technologies](https://suitabletech.com).
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Hacker, maker, musician, reader, writer, husband.
 
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+Thanks to [Pixyll](http://pixyll.com) for the theme.
