@@ -2,6 +2,7 @@
 layout:     post
 title:      Using Keen IO for Whitelabel Analytics
 date:       2015-01-27
+comments:   true
 ---
 
 Buy vs. build? It's a tough decision, and it's been around for as long as businesses have been building things. I faced the same quandry at [Retention Hero](http://www.retentionhero.com) when customers began asking for better visibility into their sales data. In addition to Retention Hero's core functionality (predicting customer behavior and helping marketers use those predictions to boost repeat sales), we needed a way to provide advanced analytics so that our users could see how different segments of customers were behaving.

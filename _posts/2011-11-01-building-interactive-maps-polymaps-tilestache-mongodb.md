@@ -2,6 +2,7 @@
 layout:     post
 title:      Building Interactive Maps with Polymaps, TileStache, and MongoDB
 date:       2011-11-01
+comments:   true
 ---
 
 _Note: This article was written in November of 2011 and documents the process I took to build an interactive map for a now-defunct side project of mine called Goalfinch. I shut down Goalfinch recently, but plenty of people found this article very informative at the time, so I've resurrected it here._
