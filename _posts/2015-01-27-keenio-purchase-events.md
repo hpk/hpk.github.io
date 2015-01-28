@@ -125,6 +125,7 @@ If we simply included our "master" Keen credentials when serving the page to our
 Keen makes it possible to silo different users with what they call "scoped keys". Essentially, they're cryptographically-secure keys that are derived from the master key (that we keep secret) and have certain query parameters "baked in". When a new user signs up for Retention Hero, we generate a unique scoped key for them with the following:
 
 {% highlight python %}
+from keen import scoped_keys
 def generate_scoped_read_key(store):
     api_key = settings.KEEN_MASTER_KEY
     return scoped_keys.encrypt(api_key, {
