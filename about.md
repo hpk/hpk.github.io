@@ -4,8 +4,8 @@ title: About Hans Kuder
 permalink: /about/
 ---
 
-Founder of [Retention Hero](http://www.retentionhero.com). Engineer at [Suitable Technologies](https://suitabletech.com).
+Platform engineer at [TuneIn](https://tunein.com).
 
-Hacker, maker, musician, reader, writer, husband.
+Hacker, maker, musician, reader, writer, husband, father.
 
-Thanks to [Pixyll](http://pixyll.com) for the theme.
+[Résumé available here](/media/hanskuder_resume.pdf).
